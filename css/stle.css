@@ -1,0 +1,27 @@
+.card-component-wrapper {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+      background-color: #dddddd;
+  }
+  
+  .card-component {
+    background: #fff;
+    width: 280px;
+    height: 360px;
+    box-shadow: 6px 6px 6px gray;
+  }
+
+  .card-image{
+    width: 280px;
+    height: 160px;
+  }
+
+  .card-title {
+    margin: 20px;
+  }
+  .card-text {
+    margin: 13px;
+  }
